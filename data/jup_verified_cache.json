@@ -1,0 +1,561 @@
+{
+  "ts": 1755696943922,
+  "items": [
+    {
+      "address": "So11111111111111111111111111111111111111112",
+      "symbol": "SOL",
+      "name": "Wrapped SOL",
+      "decimals": 9,
+      "tags": [
+        "community",
+        "strict",
+        "verified"
+      ]
+    },
+    {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "tags": [
+        "community",
+        "strict",
+        "verified"
+      ]
+    },
+    {
+      "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "symbol": "USDT",
+      "name": "USDT",
+      "decimals": 6,
+      "tags": [
+        "community",
+        "strict",
+        "verified"
+      ]
+    },
+    {
+      "address": "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
+      "symbol": "JLP",
+      "name": "Jupiter Perps",
+      "decimals": 6,
+      "tags": [
+        "community",
+        "strict",
+        "verified"
+      ]
+    },
+    {
+      "address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "decimals": 6,
+      "tags": [
+        "birdeye-trending",
+        "community",
+        "verified"
+      ]
+    },
+    {
+      "address": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+      "symbol": "cbBTC",
+      "name": "Coinbase Wrapped BTC",
+      "decimals": 8,
+      "tags": [
+        "community",
+        "verified"
+      ]
+    },
+    {
+      "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
+      "symbol": "ETH",
+      "name": "Ether (Portal)",
+      "decimals": 8,
+      "tags": [
+        "birdeye-trending",
+        "community",
+        "strict",
+        "verified"
+      ]
+    },
+    {
+      "address": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+      "symbol": "Fartcoin",
+      "name": "Fartcoin",
+      "decimals": 6,
+      "tags": [
+        "community",
+        "launchpad",
+        "verified"
+      ]
+    },
+    {
+      "address": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+      "symbol": "WBTC",
+      "name": "Wrapped BTC (Portal)",
+      "decimals": 8,
+      "tags": [
+        "birdeye-trending",
+        "community",
+        "strict",
+        "verified"
+      ]
+    },
+    {
+      "address": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
+      "symbol": "USELESS",
+      "name": "USELESS COIN",
+      "decimals": 6,
+      "tags": [
+        "community-assist",
+        "launchpad",
+        "verified"
+      ]
+    },
+    {
+      "address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+      "symbol": "JUP",
+      "name": "Jupiter",
+      "decimals": 6,
+      "tags": [
+        "birdeye-trending",
+        "community",
+        "strict",
+        "verified"
+      ]
+    },
+    {
+      "address": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+      "symbol": "JitoSOL",
+      "name": "Jito Staked SOL",
+      "decimals": 9,
+      "tags": [
+        "community",
+        "lst",
+        "strict",
+        "verified"
+      ]
+    },
+    {
+      "address": "LiGHtkg3uTa9836RaNkKLLriqTNRcMdRAhqjGWNv777",
+      "symbol": "LIGHT",
+      "name": "Light",
+      "decimals": 9,
+      "tags": [
+        "community-assist",
+        "token-2022",
+        "verified"
+      ]
+    },
+    {
+      "address": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+      "symbol": "PUMP",
+      "name": "Pump",
+      "decimals": 6,
+      "tags": [
+        "community-assist",
+        "token-2022",
+        "verified"
+      ]
+    },
+    {
+      "address": "2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH",
+      "symbol": "USDG",
+      "name": "Global Dollar",
+      "decimals": 6,
+      "tags": [
+        "community",
+        "token-2022",
+        "verified"
+      ]
+    },
+    {
+      "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+      "symbol": "PENGU",
+      "name": "Pudgy Penguins",
+      "decimals": 6,
+      "tags": [
+        "birdeye-trending",
+        "community",
+        "verified"
+      ]
+    },
+    {
+      "address": "AvZZF1YaZDziPY2RCK4oJrRVrbN3mTD9NL24hPeaZeUj",
+      "symbol": "syrupUSDC",
+      "name": "Syrup USDC",
+      "decimals": 6,
+      "tags": [
+        "community-assist",
+        "verified"
+      ]
+    },
+    {
+      "address": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+      "symbol": "JupSOL",
+      "name": "Jupiter Staked SOL",
+      "decimals": 9,
+      "tags": [
+        "community",
+        "lst",
+        "strict",
+        "verified"
+      ]
+    },
+    {
+      "address": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+      "symbol": "TROLL",
+      "name": "TROLL",
+      "decimals": 6,
+      "tags": [
+        "community-assist",
+        "verified"
+      ]
+    },
+    {
+      "address": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+      "symbol": "POPCAT",
+      "name": "Popcat",
+      "decimals": 9,
+      "tags": [
+        "birdeye-trending",
+        "community",
+        "strict",
+        "verified"
+      ]
+    },
+    {
+      "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+      "symbol": "mSOL",
+      "name": "Marinade staked SOL (mSOL)",
+      "decimals": 9,
+      "tags": [
+        "community",
+        "lst",
+        "strict",
+        "verified"
+      ]
+    },
+    {
+      "address": "Ey59PH7Z4BFU4HjyKnyMdWt5GGN76KazTAwQihoUXRnk",
+      "symbol": "LAUNCHCOIN",
+      "name": "Launch Coin on Believe",
+      "decimals": 9,
+      "tags": [
+        "community-assist",
+        "token-2022",
+        "verified"
+      ]
+    },
+    {
+      "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+      "symbol": "RAY",
+      "name": "Raydium",
+      "decimals": 6,
+      "tags": [
+        "birdeye-trending",
+        "community",
+        "strict",
+        "verified"
+      ]
+    },
+    {
+      "address": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
+      "symbol": "USDS",
+      "name": "USDS",
+      "decimals": 6,
+      "tags": [
+        "community",
+        "verified"
+      ]
+    },
+    {
+      "address": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
+      "symbol": "EURC",
+      "name": "EURC",
+      "decimals": 6,
+      "tags": [
+        "community",
+        "strict",
+        "verified"
+      ]
+    },
+    {
+      "address": "CreiuhfwdWCN5mJbMJtA9bBpYQrQF2tCBuZwSPWfpump",
+      "symbol": "PYTHIA",
+      "name": "PYTHIA",
+      "decimals": 6,
+      "tags": [
+        "community",
+        "launchpad",
+        "verified"
+      ]
+    },
+    {
+      "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+      "symbol": "Bonk",
+      "name": "Bonk",
+      "decimals": 5,
+      "tags": [
+        "birdeye-trending",
+        "community",
+        "strict",
+        "verified"
+      ]
+    },
+    {
+      "address": "H8xQ6poBjB9DTPMDTKWzWPrnxu4bDEhybxiouF8Ppump",
+      "symbol": "Tokabu",
+      "name": "The Spirit of Gambling",
+      "decimals": 6,
+      "tags": [
+        "community-assist",
+        "launchpad",
+        "verified"
+      ]
+    },
+    {
+      "address": "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
+      "symbol": "VINE",
+      "name": "Vine Coin",
+      "decimals": 6,
+      "tags": [
+        "community",
+        "launchpad",
+        "verified"
+      ]
+    },
+    {
+      "address": "9tqjeRS1swj36Ee5C1iGiwAxjQJNGAVCzaTLwFY8bonk",
+      "symbol": "Ani",
+      "name": "Ani Grok Companion",
+      "decimals": 6,
+      "tags": [
+        "community-assist",
+        "launchpad",
+        "verified"
+      ]
+    },
+    {
+      "address": "2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo",
+      "symbol": "PYUSD",
+      "name": "PayPal USD",
+      "decimals": 6,
+      "tags": [
+        "community",
+        "strict",
+        "token-2022",
+        "verified"
+      ]
+    },
+    {
+      "address": "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
+      "symbol": "KMNO",
+      "name": "Kamino",
+      "decimals": 6,
+      "tags": [
+        "birdeye-trending",
+        "community",
+        "strict",
+        "verified"
+      ]
+    },
+    {
+      "address": "7eMJmn1bYWSQEwxAX7CyngBzGNGu1cT582asKxxRpump",
+      "symbol": "CLIPPY",
+      "name": "Clippy PFP Cult",
+      "decimals": 6,
+      "tags": [
+        "community-assist",
+        "launchpad",
+        "verified"
+      ]
+    },
+    {
+      "address": "BFgdzMkTPdKKJeTipv2njtDEwhKxkgFueJQfJGt1jups",
+      "symbol": "URANUS",
+      "name": "Uranus",
+      "decimals": 6,
+      "tags": [
+        "community-assist",
+        "launchpad",
+        "verified"
+      ]
+    },
+    {
+      "address": "CtzPWv73Sn1dMGVU3ZtLv9yWSyUAanBni19YWDaznnkn",
+      "symbol": "xBTC",
+      "name": "OKX Wrapped BTC",
+      "decimals": 8,
+      "tags": [
+        "community-assist",
+        "verified"
+      ]
+    },
+    {
+      "address": "JCBKQBPvnjr7emdQGCNM8wtE8AZjyvJgh7JMvkfYxypm",
+      "symbol": "FLIPR",
+      "name": "Flipr",
+      "decimals": 6,
+      "tags": [
+        "community-assist",
+        "launchpad",
+        "verified"
+      ]
+    },
+    {
+      "address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+      "symbol": "INF",
+      "name": "Infinity",
+      "decimals": 9,
+      "tags": [
+        "community",
+        "lst",
+        "strict",
+        "verified"
+      ]
+    },
+    {
+      "address": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr",
+      "symbol": "SPX",
+      "name": "SPX6900 (Wormhole)",
+      "decimals": 8,
+      "tags": [
+        "birdeye-trending",
+        "community",
+        "verified"
+      ]
+    },
+    {
+      "address": "zBTCug3er3tLyffELcvDNrKkCymbPWysGcWihESYfLg",
+      "symbol": "zBTC",
+      "name": "zBTC",
+      "decimals": 8,
+      "tags": [
+        "birdeye-trending",
+        "internal",
+        "verified"
+      ]
+    },
+    {
+      "address": "DtR4D9FtVoTX2569gaL837ZgrB6wNjj6tkmnX9Rdk9B2",
+      "symbol": "aura",
+      "name": "aura",
+      "decimals": 6,
+      "tags": [
+        "community",
+        "strict",
+        "verified"
+      ]
+    },
+    {
+      "address": "GUy9Tu8YtvvHoL3DcXLJxXvEN8PqEus6mWQUEchcbonk",
+      "symbol": "BOSS",
+      "name": "Ibiza Final Boss",
+      "decimals": 6,
+      "tags": [
+        "community-assist",
+        "launchpad",
+        "verified"
+      ]
+    },
+    {
+      "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+      "symbol": "$WIF",
+      "name": "dogwifhat",
+      "decimals": 6,
+      "tags": [
+        "community",
+        "strict",
+        "verified"
+      ]
+    },
+    {
+      "address": "FJjKH9Xp2SvNDNUSN7X9T4uMNafFEYzbZpnwEZXKpump",
+      "symbol": "BoatKid",
+      "name": "Pacu Jalur",
+      "decimals": 6,
+      "tags": [
+        "community-assist",
+        "launchpad",
+        "verified"
+      ]
+    },
+    {
+      "address": "vRseBFqTy9QLmmo5qGiwo74AVpdqqMTnxPqWoWMpump",
+      "symbol": "Verse",
+      "name": "Verse World",
+      "decimals": 6,
+      "tags": [
+        "community-assist",
+        "launchpad",
+        "verified"
+      ]
+    },
+    {
+      "address": "Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump",
+      "symbol": "neet",
+      "name": "NotInEmploymentEducationTraining",
+      "decimals": 6,
+      "tags": [
+        "community-assist",
+        "launchpad",
+        "verified"
+      ]
+    },
+    {
+      "address": "HgBRWfYxEfvPhtqkaeymCQtHCrKE46qQ43pKe8HCpump",
+      "symbol": "Bert",
+      "name": "Bertram The Pomeranian",
+      "decimals": 6,
+      "tags": [
+        "community",
+        "launchpad",
+        "verified"
+      ]
+    },
+    {
+      "address": "TUNAfXDZEdQizTMTh3uEvNvYqJmqFHZbEJt8joP4cyx",
+      "symbol": "TUNA",
+      "name": "DefiTuna",
+      "decimals": 6,
+      "tags": [
+        "community-assist",
+        "verified"
+      ]
+    },
+    {
+      "address": "CB9dDufT3ZuQXqqSfa1c5kY935TEreyBw9XJXxHKpump",
+      "symbol": "USDUC",
+      "name": "unstable coin",
+      "decimals": 6,
+      "tags": [
+        "community-assist",
+        "launchpad",
+        "verified"
+      ]
+    },
+    {
+      "address": "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux",
+      "symbol": "HNT",
+      "name": "Helium Network Token",
+      "decimals": 8,
+      "tags": [
+        "community",
+        "strict",
+        "verified"
+      ]
+    },
+    {
+      "address": "31k88G5Mq7ptbRDf3AM13HAq6wRQHXHikR8hik7wPygk",
+      "symbol": "GP",
+      "name": "Graphite",
+      "decimals": 9,
+      "tags": [
+        "community",
+        "strict",
+        "verified"
+      ]
+    }
+  ]
+}

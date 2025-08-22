@@ -1,0 +1,18 @@
+@'
+[
+  {
+    "address": "So11111111111111111111111111111111111111112",
+    "symbol": "SOL",
+    "name": "Solana",
+    "decimals": 9,
+    "tags": ["verified"]
+  },
+  {
+    "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 6,
+    "tags": ["verified"]
+  }
+]
+'@ | Set-Content -Encoding UTF8 .\data\tokens.seed.json

@@ -1,0 +1,10 @@
+{
+  "name": "solana-sniper",
+  "private": true,
+  "version": "0.0.1",
+  "workspaces": ["apps/execution-ts"],
+  "scripts": {
+    "setup": "pnpm --filter execution-ts i",
+    "snapshot": "pnpm --filter execution-ts run snapshot"
+  }
+}

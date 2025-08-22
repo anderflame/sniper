@@ -1,0 +1,38 @@
+# Node / pnpm
+node_modules/
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+dist/
+.cache/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Env
+.env
+.env.*
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+
+# Runtime data
+data/*.db
+data/*.db-*
+data/*.db-shm
+data/*.db-wal
+data/top25.json
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
